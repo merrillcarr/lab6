@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Calculator {
 
     public static void main(String[] args) {
-        // connects to public class
+        // connects to public class hagshdksefnlsj
         int calculation;
         // declaration of int variable
         double firstOper;
